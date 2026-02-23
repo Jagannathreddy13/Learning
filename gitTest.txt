@@ -1,4 +1,4 @@
 Hi 
 Hello
 This is from Development branch
-command line chnages now..
+Changes made throught the Command line from VS code
